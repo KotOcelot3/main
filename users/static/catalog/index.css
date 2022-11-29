@@ -1,0 +1,8 @@
+.text-bg-dark {
+color: #c90076!important;
+background-color: #0E1A40;
+}
+.nav-masthead .active {
+color:#c90076;
+border-bottom:#c90076;
+}
